@@ -1,0 +1,117 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #f2f2f2;
+}
+
+h1{
+	color: white;
+	font-family: candara;
+	font-size: 45px;
+	padding-top: 6%;
+}
+
+h3{
+	text-align: center;
+	margin-top: 5%;
+	color: #d8d3d3;
+	font-family: consolas;
+}
+
+#header{
+	height: 40%;
+	width: 100%;
+	background: linear-gradient(to left, #ff66b3 0%,#33ccff 135%);
+}
+
+
+
+#box{
+	z-index: 1;
+	margin-top: -7%;
+	width: 60%;
+	height: 55%;
+	background-color: white;
+	border-radius: 10px;
+	box-shadow: 0 12px 14px 0 rgba(0,0,0,0.2);
+}
+
+input[type=text]{
+	margin-top: 14%;
+	width: 70.5%;
+	font-family: verdana;
+	height: 13%;
+	padding-left: 2%;
+	border:3px solid #eae6e6;
+	background-color: #f2f2f2;
+	border-radius: 5px;
+}
+
+input[type=email]{
+	width: 35%;
+	font-family: verdana;
+	height: 13%;
+	padding-left: 2%;
+	border:3px solid #eae6e6;
+	background-color: #f2f2f2;
+	border-radius: 5px;
+	margin-top: 1%;
+}
+
+input[type=password]{
+	width: 35%;
+	font-family: verdana;
+	height: 13%;
+	padding-left: 2%;
+	border:3px solid #eae6e6;
+	background-color: #f2f2f2;
+	border-radius: 5px;
+	margin-top: 1%;
+}
+
+
+
+input[type=submit]{
+	margin-top: 5%;
+	padding: 17px;
+	width: 40%;
+	background-color: #00bfff;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	font-family: consolas;
+	cursor: pointer;
+	font-size: 15px;
+	margin-left: -20px;
+}
+
+input[type=submit]:hover{
+	background-color: #04ade6;
+}
+
+p{
+	font-family: consolas;
+	margin-top: 2%;
+	color: #ada8a8;
+	font-size: 13px;
+}
+
+p a{
+	color: #00bfff;
+	text-decoration: none;
+}
+
+p a:hover{
+	text-decoration: underline;
+}
+	
+
+
+
+	
+	
+
+

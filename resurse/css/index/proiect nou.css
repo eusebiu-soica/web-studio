@@ -1,0 +1,60 @@
+#new-box{
+	z-index: 2;
+	position: fixed;
+	background-color: #f2f2f2;
+	width: 100%;
+	height: 100%;
+}
+#header{
+height: 40%;
+	width: 100%;
+	background: linear-gradient(to left, #ff66b3 0%,#33ccff 135%);
+}
+
+h1{
+	color: white;
+	font-family: candara;
+	font-size: 45px;
+	padding-top: 5%;
+}
+
+h3{
+	text-align: center;
+	margin-top: 3%;
+	color: #d8d3d3;
+	font-family: consolas;
+}
+
+#box{
+	z-index: 3;
+	margin-top: -7%;
+	width: 60%;
+	height: 60%;
+	background-color: white;
+	border-radius: 10px;
+	box-shadow: 0 12px 14px 0 rgba(0,0,0,0.2);
+}
+
+#nume-fisier{
+	margin-top: 14%;
+	width: 70.5%;
+	font-family: verdana;
+	height: 13%;
+	padding-left: 2%;
+	border:3px solid #eae6e6;
+	background-color: #f2f2f2;
+	border-radius: 5px;
+}
+
+#submit-button{
+	margin-top: 5%;
+	padding: 17px;
+	width: 40%;
+	background-color: #00bfff;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	font-family: consolas;
+	cursor: pointer;
+	font-size: 15px;
+}

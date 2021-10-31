@@ -1,0 +1,105 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	background-color: #eceaea;
+	height: 88px;
+}
+
+body{
+	background-color: #fbfbfb;
+}
+
+#bener{
+	margin-left: 1%;
+	height: 86px;
+	margin-top: 1px;
+}
+
+#button{
+	float: right;
+	margin-right: 1%;
+	background-color: #00bfff;
+	border: none;
+	border-radius: 7px;
+	width: 180px;
+	padding: 15px;
+	color: white;
+	font-family: consolas;
+	margin-top: 20px;
+	cursor: pointer;
+	font-size: 15px;
+	transform: scale(1);
+}
+
+#button:hover{
+	background-color: #00ace6;
+	transform: scale(0.99);
+}
+
+textarea{
+	resize: none;
+	background-color: white;
+	border: none;
+`	font-family: consolas;
+	font-size: 18px;
+	padding-left: 1%;
+	padding-top: 0.5%;
+	margin: 1%;
+	width: 98%;
+	height: 82%;
+	border: 3px solid #d8d3d3;
+	color: black;
+}
+
+#instrumente{
+	width: 47px;
+	height: 47px;
+	cursor: pointer;
+	transform: scale(1);
+}
+
+
+#table1{
+	margin-left: 32%;
+	margin-top: -76px;
+	position: absolute;
+	transform: scale(1);
+}
+
+#instrumente:hover{
+	transform: scale(0.97);
+}
+
+#table2{
+	margin-left: 38%;
+	margin-top: -76px;
+	position: absolute;
+}
+
+
+#table3{
+	margin-left: 44%;
+	margin-top: -76px;
+	position: absolute;
+}
+
+#table4{
+	margin-left: 22%;
+	margin-top: -80px;
+	position: absolute;
+}
+
+td{
+	font-family: consolas;
+	font-size: 13px;
+	color: #504f4f;
+}
+
+#button2{
+	background-color: #eceaea; 
+	border: none;
+}
+
