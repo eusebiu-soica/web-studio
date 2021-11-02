@@ -1,1 +1,2 @@
-WEB Studio - a simple web editor in browser created with HTML, CSS and PHP.
+WEB Studio - create, edit and store HTML, CSS, JS, PHP files. 
+Created with HTML CSS AND JS to front-end and with PHP and MYSQL to backend.
